@@ -1,0 +1,10 @@
+Package: mod-amd
+Version: %%VERSION%%
+Architecture: amd64
+Depends: 
+Section: misc
+Priority: optional
+Maintainer: Zvonimir Buzanic <zvonimir.buzanic@asseco-see.hr>
+Description: Asterisk app_amd for FreeSWITCH.
+ Asterisk app_amd for FreeSWITCH from https://github.com/fx02/mod_amd
+ 
